@@ -1,4 +1,4 @@
-# -2024-TemporalIntegration
+# -2024-IntegrationTask
 
 ![](https://github.com/DeoMiche/-2024-TemporalIntegration/blob/master/task_gif.gif)
 
