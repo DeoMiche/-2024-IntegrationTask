@@ -1,6 +1,6 @@
 # -2024-IntegrationTask
 
-The repository contains data and code to replicate the results from 
+The repository contains data and code to replicate the results from:
 Deodato M, Melcher D. Continuous temporal integration in the human visual system. J Vis. 2024 Dec 2;24(13):5. doi: 10.1167/jov.24.13.5.
 
 
